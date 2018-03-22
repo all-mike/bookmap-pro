@@ -6,7 +6,7 @@
 
 Chrome extension designed to significantly decreases the time it takes to save a bookmark to a desired folder.
 
-![screenshot](demo1.png)
+![screenshot](demoss1.png)
 
 *Highly recommended you set up hotkeys before using.*
 
@@ -22,4 +22,4 @@ Chrome extension designed to significantly decreases the time it takes to save a
 
 3) What's next? - After some UI improvement, BookMap will be getting pop-up notifications to provide additional feedback upon creating a bookmark.
 
-![screenshot](demo2.png)
+![screenshot](demoss2.png)
