@@ -1,15 +1,18 @@
 ## BookMap
 
-![screenshot](demo1.png)
 
-__[Available Now: Get the chrome extension!]__(https://chrome.google.com/webstore/detail/bookmap/gdbkjigmeiednmbhllknejncmoklabne) Version 1.234 Beta
-*Highly recommended you set up hotkeys before using.*
+### [Available Now: Get the chrome extension!](https://chrome.google.com/webstore/detail/bookmap/gdbkjigmeiednmbhllknejncmoklabne) Version 1.234 Beta
+
 
 Chrome extension designed to significantly decreases the time it takes to save a bookmark to a desired folder.
 
-Open the console and begin typing a folder name. When your target folder is selected press tab or enter to add a bookmark to it.
+![screenshot](demo1.png)
 
-There are also 4 hot-keys (the maximum allowed by chrome extensions) that you can assign to folders for instant book mark creation.
+*Highly recommended you set up hotkeys before using.*
+
+- Open the console and begin typing a folder name. When your target folder is selected press tab or enter to add a bookmark to it.
+
+- There are also 4 hot-keys that you can assign to folders for instant book mark creation.
 
 #### FAQ
 
