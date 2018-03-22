@@ -1,9 +1,8 @@
 ## BookMap
 
 ![screenshot](demo1.png)
-![screenshot](demo2.png)
 
-__Available Now__: [Get the chrome extension.](#https://chrome.google.com/webstore/detail/bookmap/gdbkjigmeiednmbhllknejncmoklabne) Version 1.234 Beta
+__Available Now__: [Get the chrome extension!](https://chrome.google.com/webstore/detail/bookmap/gdbkjigmeiednmbhllknejncmoklabne) Version 1.234 Beta
 *Highly recommended you set up hotkeys before using.*
 
 Chrome extension designed to significantly decreases the time it takes to save a bookmark to a desired folder.
@@ -19,3 +18,5 @@ There are also 4 hot-keys (the maximum allowed by chrome extensions) that you ca
 2) Why only 4 hotkeys? - This is currently the max hotkeys allowed on a chrome extension. If there's demand it's possible BookMap could be recreated as Chrome App to make more mapping available.
 
 3) What's next? - After some UI improvement, BookMap will be getting pop-up notifications to provide additional feedback upon creating a bookmark.
+
+![screenshot](demo2.png)
