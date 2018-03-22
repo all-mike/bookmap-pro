@@ -2,7 +2,7 @@
 
 ![screenshot](demo1.png)
 
-__Available Now__: [Get the chrome extension!](https://chrome.google.com/webstore/detail/bookmap/gdbkjigmeiednmbhllknejncmoklabne) Version 1.234 Beta
+__[Available Now: Get the chrome extension!]__(https://chrome.google.com/webstore/detail/bookmap/gdbkjigmeiednmbhllknejncmoklabne) Version 1.234 Beta
 *Highly recommended you set up hotkeys before using.*
 
 Chrome extension designed to significantly decreases the time it takes to save a bookmark to a desired folder.
