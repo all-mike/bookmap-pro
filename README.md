@@ -16,7 +16,7 @@ Chrome extension designed to significantly decrease the time it takes to save a 
 
 #### FAQ
 
-1) Why does this extension ask to use my history? - History is coupled with tab access in chrome. If you view the code you'll see there's no interaction with your history whatsoever :]
+1) Why does this extension ask to use my history? - History is coupled with tab access in chrome. If you view the code you'll see there's no interaction with your history whatsoever.
 
 2) Why only 4 hotkeys? - This is currently the max hotkeys allowed on a chrome extension. If there's demand it's possible BookMap could be recreated as Chrome App to make more mapping available.
 
