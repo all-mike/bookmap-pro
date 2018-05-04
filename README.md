@@ -4,7 +4,7 @@
 ### [Available Now: Get the chrome extension!](https://chrome.google.com/webstore/detail/bookmap/gdbkjigmeiednmbhllknejncmoklabne) Version 1.234 Beta
 
 
-Chrome extension designed to significantly decreases the time it takes to save a bookmark to a desired folder.
+Chrome extension designed to significantly decrease the time it takes to save a bookmark to a desired folder.
 
 ![screenshot](demoss1.png)
 
