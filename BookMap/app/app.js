@@ -1,5 +1,5 @@
 angular.module('bookmap', ['ui.bootstrap'])
-  .component('popup', {
+  .component('popUp', {
 
     controller(bookMarks, userSettings, $timeout, $rootScope) {
       
